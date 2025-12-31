@@ -1,0 +1,60 @@
+{
+  "godot_docs_version": "4.6 (master branch)",
+  "generated_date": "2025-12-26",
+  "description": "LLM-optimized Godot Engine documentation in structured formats",
+  "total_files": 1493,
+  "formats": {
+    "classes": {
+      "format": "JSON (fjson)",
+      "count": 1066,
+      "description": "Complete API reference for all Godot classes",
+      "location": "classes/",
+      "use_case": "Quick lookup of class methods, properties, signals, and inheritance"
+    },
+    "tutorials": {
+      "format": "Plain text",
+      "count": 427,
+      "description": "Comprehensive tutorials covering all Godot features",
+      "location": "tutorials/",
+      "use_case": "Learning concepts, workflows, and best practices"
+    },
+    "guides": {
+      "format": "Plain text",
+      "description": "Getting started guides and step-by-step walkthroughs",
+      "location": "guides/getting_started/",
+      "use_case": "Beginner-friendly introduction to Godot"
+    },
+    "about": {
+      "format": "Plain text",
+      "description": "General information about Godot Engine",
+      "location": "about/",
+      "use_case": "Understanding Godot's features, requirements, and policies"
+    }
+  },
+  "categories": {
+    "2d": "tutorials/2d/",
+    "3d": "tutorials/3d/",
+    "animation": "tutorials/animation/",
+    "audio": "tutorials/audio/",
+    "physics": "tutorials/physics/",
+    "scripting": "tutorials/scripting/",
+    "shaders": "tutorials/shaders/",
+    "ui": "tutorials/ui/",
+    "networking": "tutorials/networking/",
+    "xr": "tutorials/xr/",
+    "performance": "tutorials/performance/",
+    "export": "tutorials/export/",
+    "plugins": "tutorials/plugins/"
+  },
+  "key_classes": {
+    "nodes": ["Node", "Node2D", "Node3D", "Control", "CanvasItem"],
+    "resources": ["Resource", "PackedScene", "Texture2D", "Material", "Shader"],
+    "core": ["Object", "RefCounted", "SceneTree", "Engine"],
+    "physics_2d": ["RigidBody2D", "CharacterBody2D", "Area2D", "CollisionShape2D"],
+    "physics_3d": ["RigidBody3D", "CharacterBody3D", "Area3D", "CollisionShape3D"],
+    "ui": ["Button", "Label", "TextEdit", "Container", "Panel"],
+    "audio": ["AudioStreamPlayer", "AudioStreamPlayer2D", "AudioStreamPlayer3D"],
+    "networking": ["MultiplayerPeer", "SceneMultiplayer", "ENetMultiplayerPeer"]
+  },
+  "search_index": "searchindex.json"
+}

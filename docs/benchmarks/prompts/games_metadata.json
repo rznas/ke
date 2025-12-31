@@ -1,0 +1,587 @@
+{
+  "generated_date": "2025-12-30",
+  "total_games": 72,
+  "tiers": {
+    "TIER_1": 9,
+    "TIER_2": 14,
+    "TIER_3": 49
+  },
+  "games": [
+    {
+      "name": "A Plague Tale: Innocence",
+      "developer": "Asobo Studio (40 people)",
+      "tier": "TIER_2",
+      "relevance": "important",
+      "priority_number": 10,
+      "prompt_file": "10_a_plague_tale_innocence_research_prompt.md"
+    },
+    {
+      "name": "Age of Heroes",
+      "developer": "90+ Shahnameh figures; commissioned by Ferdowsi Foundation",
+      "tier": "TIER_3",
+      "relevance": "reference",
+      "priority_number": 30,
+      "prompt_file": "30_age_of_heroes_research_prompt.md"
+    },
+    {
+      "name": "Apotheon",
+      "developer": "Greek mythology, 2D black-figure pottery art style",
+      "tier": "TIER_3",
+      "relevance": "reference",
+      "priority_number": 31,
+      "prompt_file": "31_apotheon_research_prompt.md"
+    },
+    {
+      "name": "Assassin's Creed Mirage",
+      "developer": "Ubisoft Bordeaux",
+      "tier": "TIER_1",
+      "relevance": "immediate",
+      "priority_number": 1,
+      "prompt_file": "01_assassins_creed_mirage_research_prompt.md"
+    },
+    {
+      "name": "Assassin's Creed Origins/Mirage",
+      "developer": "Parry window analysis; yellow/red visual indicators",
+      "tier": "TIER_3",
+      "relevance": "reference",
+      "priority_number": 32,
+      "prompt_file": "32_assassins_creed_originsmirage_research_prompt.md"
+    },
+    {
+      "name": "Asura's Wrath",
+      "developer": "Hindu/Buddhist mythology; cinematic action approach",
+      "tier": "TIER_3",
+      "relevance": "reference",
+      "priority_number": 33,
+      "prompt_file": "33_asuras_wrath_research_prompt.md"
+    },
+    {
+      "name": "Aurion: Legacy of the Kori-Odan",
+      "developer": "African mythology by Cameroonian studio",
+      "tier": "TIER_3",
+      "relevance": "reference",
+      "priority_number": 34,
+      "prompt_file": "34_aurion_legacy_of_the_kori_odan_research_prompt.md"
+    },
+    {
+      "name": "Aztez",
+      "developer": "Aztec culture action game",
+      "tier": "TIER_3",
+      "relevance": "reference",
+      "priority_number": 35,
+      "prompt_file": "35_aztez_research_prompt.md"
+    },
+    {
+      "name": "Balatro",
+      "developer": "LocalThunk (1 person)",
+      "tier": "TIER_1",
+      "relevance": "immediate",
+      "priority_number": 2,
+      "prompt_file": "02_balatro_research_prompt.md"
+    },
+    {
+      "name": "Balatro/Undertale/Stardew Valley",
+      "developer": "Budget champion lessons",
+      "tier": "TIER_3",
+      "relevance": "reference",
+      "priority_number": 36,
+      "prompt_file": "36_balatroundertalestardew_valley_research_prompt.md"
+    },
+    {
+      "name": "Bendy and the Ink Machine",
+      "developer": "Joey Drew Studios (started 2 people)",
+      "tier": "TIER_2",
+      "relevance": "important",
+      "priority_number": 11,
+      "prompt_file": "11_bendy_and_the_ink_machine_research_prompt.md"
+    },
+    {
+      "name": "Blasphemous",
+      "developer": "The Game Kitchen (~5 initial, grew post-Kickstarter); Spanish Catholic imagery approach",
+      "tier": "TIER_3",
+      "relevance": "reference",
+      "priority_number": 37,
+      "prompt_file": "37_blasphemous_research_prompt.md"
+    },
+    {
+      "name": "Borderlands series",
+      "developer": "Cel-shading",
+      "tier": "TIER_3",
+      "relevance": "reference",
+      "priority_number": 38,
+      "prompt_file": "38_borderlands_series_research_prompt.md"
+    },
+    {
+      "name": "Cave Story",
+      "developer": "Daisuke Amaya (solo); 5 years; hobby project, later commercialized",
+      "tier": "TIER_3",
+      "relevance": "reference",
+      "priority_number": 39,
+      "prompt_file": "39_cave_story_research_prompt.md"
+    },
+    {
+      "name": "Celeste",
+      "developer": "Matt Makes Games (~6 people)",
+      "tier": "TIER_2",
+      "relevance": "important",
+      "priority_number": 12,
+      "prompt_file": "12_celeste_research_prompt.md"
+    },
+    {
+      "name": "Content Warning",
+      "developer": "5 developers; 700K+ copies first week; 24-hour free launch viral",
+      "tier": "TIER_3",
+      "relevance": "reference",
+      "priority_number": 40,
+      "prompt_file": "40_content_warning_research_prompt.md"
+    },
+    {
+      "name": "Cuphead",
+      "developer": "Art commitment with tiny team",
+      "tier": "TIER_3",
+      "relevance": "reference",
+      "priority_number": 41,
+      "prompt_file": "41_cuphead_research_prompt.md"
+    },
+    {
+      "name": "Dark Souls",
+      "developer": "FromSoftware (~195 people credits, DS1)",
+      "tier": "TIER_1",
+      "relevance": "immediate",
+      "priority_number": 3,
+      "prompt_file": "03_dark_souls_research_prompt.md"
+    },
+    {
+      "name": "Dead Cells",
+      "developer": "Motion Twin (8-10 people)",
+      "tier": "TIER_1",
+      "relevance": "immediate",
+      "priority_number": 4,
+      "prompt_file": "04_dead_cells_research_prompt.md"
+    },
+    {
+      "name": "Devil May Cry 5",
+      "developer": "Capcom",
+      "tier": "TIER_2",
+      "relevance": "important",
+      "priority_number": 13,
+      "prompt_file": "13_devil_may_cry_5_research_prompt.md"
+    },
+    {
+      "name": "Disco Elysium",
+      "developer": "Oil painting style",
+      "tier": "TIER_3",
+      "relevance": "reference",
+      "priority_number": 42,
+      "prompt_file": "42_disco_elysium_research_prompt.md"
+    },
+    {
+      "name": "Elden Ring",
+      "developer": "FromSoftware",
+      "tier": "TIER_2",
+      "relevance": "important",
+      "priority_number": 14,
+      "prompt_file": "14_elden_ring_research_prompt.md"
+    },
+    {
+      "name": "FTL: Faster Than Light",
+      "developer": "Subset Games (2 people); $200K Kickstarter; 10M+ users",
+      "tier": "TIER_3",
+      "relevance": "reference",
+      "priority_number": 43,
+      "prompt_file": "43_ftl_faster_than_light_research_prompt.md"
+    },
+    {
+      "name": "Garshasp",
+      "developer": "Ultraviolent fantasy; Deev hunting",
+      "tier": "TIER_3",
+      "relevance": "reference",
+      "priority_number": 44,
+      "prompt_file": "44_garshasp_research_prompt.md"
+    },
+    {
+      "name": "Ghost of Tsushima",
+      "developer": "Detailed GDC combat talks",
+      "tier": "TIER_3",
+      "relevance": "reference",
+      "priority_number": 45,
+      "prompt_file": "45_ghost_of_tsushima_research_prompt.md"
+    },
+    {
+      "name": "God of War (2018)",
+      "developer": "Santa Monica Studio",
+      "tier": "TIER_2",
+      "relevance": "important",
+      "priority_number": 15,
+      "prompt_file": "15_god_of_war_2018_research_prompt.md"
+    },
+    {
+      "name": "Gris",
+      "developer": "Watercolor",
+      "tier": "TIER_3",
+      "relevance": "reference",
+      "priority_number": 46,
+      "prompt_file": "46_gris_research_prompt.md"
+    },
+    {
+      "name": "Hades",
+      "developer": "Mythology adaptation + combat polish",
+      "tier": "TIER_3",
+      "relevance": "reference",
+      "priority_number": 47,
+      "prompt_file": "47_hades_research_prompt.md"
+    },
+    {
+      "name": "Hitman (2016)",
+      "developer": "IO Interactive",
+      "tier": "TIER_2",
+      "relevance": "important",
+      "priority_number": 16,
+      "prompt_file": "16_hitman_2016_research_prompt.md"
+    },
+    {
+      "name": "Hollow Knight",
+      "developer": "3-person quality benchmark",
+      "tier": "TIER_3",
+      "relevance": "reference",
+      "priority_number": 48,
+      "prompt_file": "48_hollow_knight_research_prompt.md"
+    },
+    {
+      "name": "Hyper Light Drifter",
+      "developer": "Heart Machine (~4 core)",
+      "tier": "TIER_2",
+      "relevance": "important",
+      "priority_number": 17,
+      "prompt_file": "17_hyper_light_drifter_research_prompt.md"
+    },
+    {
+      "name": "Immortals Fenyx Rising",
+      "developer": "Ubisoft's comedic Greek mythology take",
+      "tier": "TIER_3",
+      "relevance": "reference",
+      "priority_number": 49,
+      "prompt_file": "49_immortals_fenyx_rising_research_prompt.md"
+    },
+    {
+      "name": "Into the Breach",
+      "developer": "Subset Games (2-3 people); 5-year development",
+      "tier": "TIER_3",
+      "relevance": "reference",
+      "priority_number": 50,
+      "prompt_file": "50_into_the_breach_research_prompt.md"
+    },
+    {
+      "name": "Jotun",
+      "developer": "Norse mythology, hand-drawn art, boss-focused design",
+      "tier": "TIER_3",
+      "relevance": "reference",
+      "priority_number": 51,
+      "prompt_file": "51_jotun_research_prompt.md"
+    },
+    {
+      "name": "Journey",
+      "developer": "Minimalist",
+      "tier": "TIER_3",
+      "relevance": "reference",
+      "priority_number": 52,
+      "prompt_file": "52_journey_research_prompt.md"
+    },
+    {
+      "name": "Kentucky Route Zero",
+      "developer": "Small team episodic dangers",
+      "tier": "TIER_3",
+      "relevance": "reference",
+      "priority_number": 53,
+      "prompt_file": "53_kentucky_route_zero_research_prompt.md"
+    },
+    {
+      "name": "Lethal Company",
+      "developer": "Zeekerss (1 person, age 21); 10M+ copies; $119M gross",
+      "tier": "TIER_3",
+      "relevance": "reference",
+      "priority_number": 54,
+      "prompt_file": "54_lethal_company_research_prompt.md"
+    },
+    {
+      "name": "Life is Strange 1",
+      "developer": "\u20ac6 million budget; 20M+ players; episodic success before abandoning model",
+      "tier": "TIER_3",
+      "relevance": "reference",
+      "priority_number": 55,
+      "prompt_file": "55_life_is_strange_1_research_prompt.md"
+    },
+    {
+      "name": "Life is Strange: True Colors",
+      "developer": "Abandoned episodic; \"Can't imagine going back\"",
+      "tier": "TIER_3",
+      "relevance": "reference",
+      "priority_number": 56,
+      "prompt_file": "56_life_is_strange_true_colors_research_prompt.md"
+    },
+    {
+      "name": "Mulaka",
+      "developer": "Lienzo (small indie team)",
+      "tier": "TIER_2",
+      "relevance": "important",
+      "priority_number": 18,
+      "prompt_file": "18_mulaka_research_prompt.md"
+    },
+    {
+      "name": "Never Alone",
+      "developer": "Cultural collaboration model",
+      "tier": "TIER_3",
+      "relevance": "reference",
+      "priority_number": 57,
+      "prompt_file": "57_never_alone_research_prompt.md"
+    },
+    {
+      "name": "Okami",
+      "developer": "Clover Studio",
+      "tier": "TIER_2",
+      "relevance": "important",
+      "priority_number": 19,
+      "prompt_file": "19_okami_research_prompt.md"
+    },
+    {
+      "name": "Ori and the Blind Forest",
+      "developer": "Moon Studios (10 core + contractors)",
+      "tier": "TIER_2",
+      "relevance": "important",
+      "priority_number": 20,
+      "prompt_file": "20_ori_and_the_blind_forest_research_prompt.md"
+    },
+    {
+      "name": "Original Prince of Persia (1989)",
+      "developer": "Jordan Mechner's foundation; inspired by Shahnameh and Arabian Nights",
+      "tier": "TIER_3",
+      "relevance": "reference",
+      "priority_number": 58,
+      "prompt_file": "58_original_prince_of_persia_1989_research_prompt.md"
+    },
+    {
+      "name": "Papers, Please",
+      "developer": "Lucas Pope (solo); 5M+ units; Haxe + NME (FREE tools)",
+      "tier": "TIER_3",
+      "relevance": "reference",
+      "priority_number": 59,
+      "prompt_file": "59_papers_please_research_prompt.md"
+    },
+    {
+      "name": "Persona 5",
+      "developer": "Bold graphic style",
+      "tier": "TIER_3",
+      "relevance": "reference",
+      "priority_number": 60,
+      "prompt_file": "60_persona_5_research_prompt.md"
+    },
+    {
+      "name": "Prince of Persia (2008 Reboot)",
+      "developer": "Heavily based on Zoroastrianism; Ormazd vs. Ahriman; art direction nominated for awards despite criticism of \"Anglicized\" protagonist",
+      "tier": "TIER_3",
+      "relevance": "reference",
+      "priority_number": 61,
+      "prompt_file": "61_prince_of_persia_2008_reboot_research_prompt.md"
+    },
+    {
+      "name": "Prince of Persia: The Lost Crown",
+      "developer": "Persian authenticity gold standard",
+      "tier": "TIER_3",
+      "relevance": "reference",
+      "priority_number": 62,
+      "prompt_file": "62_prince_of_persia_the_lost_crown_research_prompt.md"
+    },
+    {
+      "name": "Prince of Persia: The Sands of Time",
+      "developer": "Ubisoft Montreal",
+      "tier": "TIER_1",
+      "relevance": "immediate",
+      "priority_number": 5,
+      "prompt_file": "05_prince_of_persia_the_sands_of_time_research_prompt.md"
+    },
+    {
+      "name": "Prince of Persia: Warrior Within/Two Thrones",
+      "developer": "Tonal shift lessons (what NOT to do)",
+      "tier": "TIER_3",
+      "relevance": "reference",
+      "priority_number": 63,
+      "prompt_file": "63_prince_of_persia_warrior_withintwo_thrones_research_prompt.md"
+    },
+    {
+      "name": "Quest of Persia series",
+      "developer": "Puya Arts; claims \"100% Persian\" vs Prince of Persia's Arab/Indian elements",
+      "tier": "TIER_3",
+      "relevance": "reference",
+      "priority_number": 64,
+      "prompt_file": "64_quest_of_persia_series_research_prompt.md"
+    },
+    {
+      "name": "Raji",
+      "developer": "Cultural representation pitfalls",
+      "tier": "TIER_3",
+      "relevance": "reference",
+      "priority_number": 65,
+      "prompt_file": "65_raji_research_prompt.md"
+    },
+    {
+      "name": "Raji: An Ancient Epic",
+      "developer": "Nodding Heads Games (13 people)",
+      "tier": "TIER_2",
+      "relevance": "important",
+      "priority_number": 21,
+      "prompt_file": "21_raji_an_ancient_epic_research_prompt.md"
+    },
+    {
+      "name": "Resident Evil Revelations 2",
+      "developer": "Weekly releases (unique approach); $5.99/episode",
+      "tier": "TIER_3",
+      "relevance": "reference",
+      "priority_number": 66,
+      "prompt_file": "66_resident_evil_revelations_2_research_prompt.md"
+    },
+    {
+      "name": "Return of the Obra Dinn",
+      "developer": "Lucas Pope (1 person)",
+      "tier": "TIER_2",
+      "relevance": "important",
+      "priority_number": 22,
+      "prompt_file": "22_return_of_the_obra_dinn_research_prompt.md"
+    },
+    {
+      "name": "Sable",
+      "developer": "Moebius-inspired",
+      "tier": "TIER_3",
+      "relevance": "reference",
+      "priority_number": 67,
+      "prompt_file": "67_sable_research_prompt.md"
+    },
+    {
+      "name": "Salt and Sanctuary",
+      "developer": "2-person Souls-like reference",
+      "tier": "TIER_3",
+      "relevance": "reference",
+      "priority_number": 68,
+      "prompt_file": "68_salt_and_sanctuary_research_prompt.md"
+    },
+    {
+      "name": "Sekiro",
+      "developer": "Innovative posture/parry system",
+      "tier": "TIER_3",
+      "relevance": "reference",
+      "priority_number": 69,
+      "prompt_file": "69_sekiro_research_prompt.md"
+    },
+    {
+      "name": "Sekiro: Shadows Die Twice",
+      "developer": "FromSoftware (~200-230 at peak)",
+      "tier": "TIER_1",
+      "relevance": "immediate",
+      "priority_number": 6,
+      "prompt_file": "06_sekiro_shadows_die_twice_research_prompt.md"
+    },
+    {
+      "name": "Seven Quests",
+      "developer": "Rostam as hero; by Iranian developers in Dubai",
+      "tier": "TIER_3",
+      "relevance": "reference",
+      "priority_number": 70,
+      "prompt_file": "70_seven_quests_research_prompt.md"
+    },
+    {
+      "name": "Shovel Knight",
+      "developer": "Yacht Club (6 people initially); $1.4M budget (Treasure Trove: $9M total); 3M+ sales",
+      "tier": "TIER_3",
+      "relevance": "reference",
+      "priority_number": 71,
+      "prompt_file": "71_shovel_knight_research_prompt.md"
+    },
+    {
+      "name": "Sifu",
+      "developer": "Sloclap (~50 people)",
+      "tier": "TIER_1",
+      "relevance": "immediate",
+      "priority_number": 7,
+      "prompt_file": "07_sifu_research_prompt.md"
+    },
+    {
+      "name": "Smite",
+      "developer": "Multi-pantheon god representation",
+      "tier": "TIER_3",
+      "relevance": "reference",
+      "priority_number": 72,
+      "prompt_file": "72_smite_research_prompt.md"
+    },
+    {
+      "name": "Stardew Valley",
+      "developer": "Eric Barone (1 person)",
+      "tier": "TIER_1",
+      "relevance": "immediate",
+      "priority_number": 8,
+      "prompt_file": "08_stardew_valley_research_prompt.md"
+    },
+    {
+      "name": "Tales from the Borderlands",
+      "developer": "Internal failure despite critical success; 95% staff reassigned mid-season",
+      "tier": "TIER_3",
+      "relevance": "reference",
+      "priority_number": 73,
+      "prompt_file": "73_tales_from_the_borderlands_research_prompt.md"
+    },
+    {
+      "name": "Telltale/Hitman episodic",
+      "developer": "What failed and why",
+      "tier": "TIER_3",
+      "relevance": "reference",
+      "priority_number": 74,
+      "prompt_file": "74_telltalehitman_episodic_research_prompt.md"
+    },
+    {
+      "name": "Terraria",
+      "developer": "Re-Logic (started solo, now ~11); 58M+ copies; 4 months initial dev",
+      "tier": "TIER_3",
+      "relevance": "reference",
+      "priority_number": 75,
+      "prompt_file": "75_terraria_research_prompt.md"
+    },
+    {
+      "name": "Thymesia",
+      "developer": "Dark medieval mythology approach",
+      "tier": "TIER_3",
+      "relevance": "reference",
+      "priority_number": 76,
+      "prompt_file": "76_thymesia_research_prompt.md"
+    },
+    {
+      "name": "Transistor",
+      "developer": "Art nouveau/deco",
+      "tier": "TIER_3",
+      "relevance": "reference",
+      "priority_number": 77,
+      "prompt_file": "77_transistor_research_prompt.md"
+    },
+    {
+      "name": "Tunic",
+      "developer": "Andrew Shouldice (primarily solo)",
+      "tier": "TIER_2",
+      "relevance": "important",
+      "priority_number": 23,
+      "prompt_file": "23_tunic_research_prompt.md"
+    },
+    {
+      "name": "Undertale",
+      "developer": "Toby Fox (1 person)",
+      "tier": "TIER_1",
+      "relevance": "immediate",
+      "priority_number": 9,
+      "prompt_file": "09_undertale_research_prompt.md"
+    },
+    {
+      "name": "Vampire Survivors",
+      "developer": "Luca Galante (1 person); Phaser JS (FREE); ~\u00a340M net worth now",
+      "tier": "TIER_3",
+      "relevance": "reference",
+      "priority_number": 78,
+      "prompt_file": "78_vampire_survivors_research_prompt.md"
+    }
+  ]
+}
